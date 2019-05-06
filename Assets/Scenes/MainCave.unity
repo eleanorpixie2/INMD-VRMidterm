@@ -1903,6 +1903,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lava_Plane
       objectReference: {fileID: 0}
+    - target: {fileID: 1544347852571938, guid: 06954e7d69c4ab946ac2e8f3432d5816, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4508578326299032, guid: 06954e7d69c4ab946ac2e8f3432d5816, type: 3}
       propertyPath: m_LocalPosition.x
       value: -53.3
@@ -2459,6 +2463,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 869918710}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &899787638 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1544347852571938, guid: 06954e7d69c4ab946ac2e8f3432d5816,
+    type: 3}
+  m_PrefabInstance: {fileID: 1763092614}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &899787639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 899787638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9185986daa77f43b0b7d85661f4e83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  directionAxis: 0
 --- !u!1001 &921333697
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2755,6 +2778,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1005786207}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1028634587 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1544347852571938, guid: 06954e7d69c4ab946ac2e8f3432d5816,
+    type: 3}
+  m_PrefabInstance: {fileID: 708758587}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1028634588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1028634587}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9185986daa77f43b0b7d85661f4e83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  directionAxis: 0
 --- !u!1001 &1045774307
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4594,6 +4636,10 @@ PrefabInstance:
     - target: {fileID: 1544347852571938, guid: 06954e7d69c4ab946ac2e8f3432d5816, type: 3}
       propertyPath: m_Name
       value: Lava_Plane (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1544347852571938, guid: 06954e7d69c4ab946ac2e8f3432d5816, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4508578326299032, guid: 06954e7d69c4ab946ac2e8f3432d5816, type: 3}
       propertyPath: m_LocalPosition.x
